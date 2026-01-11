@@ -1,6 +1,6 @@
 # Руссификатор для Create Ultimate Selection 2
 
-Это русификация квестов и описаний из модпака [Create Ultimate Selection 2 (MC 1.21.1-4.0.0)](https://www.curseforge.com/minecraft/modpacks/create-ultimate-selection-2/files/7435136).  
+Этот русификатор предназначен для перевода квестов и описаний модпака [Create Ultimate Selection 2 (MC 1.21.1-4.0.0)](https://www.curseforge.com/minecraft/modpacks/create-ultimate-selection-2/files/7435136).  
 Файл формата `.snbt`, который можно использовать для замены оригинальных текстов в моде.
 
 ⚠️ **Важно:**
@@ -15,4 +15,4 @@
 3. Проверьте корректность отображения текстов.  
 
 ---
-Если найдёте какие либо ошибки пишите в #ОБНАРУЖЕННО
+Если найдёте какие либо ошибки пишите в #ОБНАРУЖЕНО
