@@ -1,6 +1,6 @@
 # Руссификатор для Create Ultimate Selection 2
 
-Это русификация квестов и описаний из модпака **Create Ultimate Selection 2 (MC 1.21.1-4.0.0)**.  
+Это русификация квестов и описаний из модпака [Create Ultimate Selection 2 (MC 1.21.1-4.0.0)](https://www.curseforge.com/minecraft/modpacks/create-ultimate-selection-2/files/7435136).  
 Файл формата `.snbt`, который можно использовать для замены оригинальных текстов в моде.
 
 ⚠️ **Важно:**
@@ -13,3 +13,6 @@
 1. Перенесите файл `ru_ru.snbt` в папку `Create - Ultimate Selection 2 [Create Quests in 1.21.1]\config\ftbquests\quests\lang`.
 2. Перезапустите игру/сервер или командой /ftbquests reload если включено использование команд.  
 3. Проверьте корректность отображения текстов.  
+
+---
+Если найдёте какие либо ошибки пишите в #ОБНАРУЖЕННО
